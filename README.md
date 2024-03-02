@@ -2,7 +2,7 @@
 
 This is a sample e-commerce application built for learning purposes.
 
-Here's how to deploy it on CentOS systems:
+Here's how to deploy it on Ubuntu systems:
 
 ## Deploy Pre-Requisites
 
